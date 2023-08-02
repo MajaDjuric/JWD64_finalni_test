@@ -19,18 +19,16 @@
   korisničko ime: tamara <br>
   lozinka: tamara<br>
 
-  NEPRIJAVLJENI KORISNIK<br>
-  samo prikaz i pretraga nastupa<br>
-
  * Izvođači:<br>
   Admin- prikaz i dodavanje novog<br>
   Korisnik- samo prikaz<br>
 
  * Nastupi:<br>
   Korisnik i Admin -Prikaz, dodavanje i pretraga <br>
-  Admin- Brisanje<br>
-  Klikom na bilo koji red iz tabele, iskače alert sa prikazom broja nastupa datog izvođača<br>
+  Admin-  + Brisanje<br>
+  Neprijavljeni korisnik: samo prikaz i pretraga nastupa<br>
   
+  Klikom na bilo koji red iz tabele, iskače alert sa prikazom broja nastupa datog izvođača<br>
   Implementirana pretraga nastupa po izvođačima i festivalima <br>
   Implementirana paginacija<br>
   Implementirano dodavanje- sa ograničenjem da jedan festival ne može imati izvođače koji dolaze iz iste države (NastupiController -> @PostMapping)<br>
