@@ -8,7 +8,7 @@
   Backend- SpringBoot <br>
   Frontend- React<br>
 
-- za pokretanje frontend dela aplikacije- npm install<br>
+- Za pokretanje frontend dela aplikacije- npm install<br>
 
 * Login <br>
   ROLE_ADMIN <br>
@@ -18,7 +18,7 @@
   korisničko ime: tamara      lozinka: tamara<br>
 
   NEPRIJAVLJENI KORISNIK<br>
-  - samo prikaz i pretraga nastupa<br>
+  samo prikaz i pretraga nastupa<br>
 
  * Izvođači:<br>
   Admin- prikaz i dodavanje novog<br>
