@@ -4,8 +4,8 @@
   Okačen je neizmenjen projekat, u potpunosti onako kako je urađen na testu.
   Za izradu projekta polaznici imaju 3 sata.
 
- * Tehnologije *
-  Backend- SpringBoot
+ * Tehnologije 
+  Backend- SpringBoot <br>
   Frontend- React
 
 - za pokretanje frontend dela aplikacije- npm install
