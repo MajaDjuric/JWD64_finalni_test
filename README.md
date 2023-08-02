@@ -12,19 +12,19 @@
 
 * Login <br>
   ROLE_ADMIN <br>
-  korisnicčko ime: miroslav    lozinka: miroslav<br>
+  korisničko ime: miroslav    lozinka: miroslav<br>
   
   ROLE_KORISNIK<br>
-  korisnicčko ime: tamara      lozinka: tamara<br>
+  korisničko ime: tamara      lozinka: tamara<br>
 
   NEPRIJAVLJENI KORISNIK<br>
   - samo prikaz i pretraga nastupa<br>
 
- ** Izvođači:<br>
+ * Izvođači:<br>
   Admin- prikaz i dodavanje novog<br>
   Korisnik- samo prikaz<br>
 
- ** Nastupi:<br>
+ * Nastupi:<br>
   Korisnik i Admin -Prikaz, dodavanje i pretraga <br>
   Admin- Brisanje<br>
   Klikom na bilo koji red iz tabele, iskače alert sa prikazom broja nastupa datog izvođača<br>
