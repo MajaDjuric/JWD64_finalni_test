@@ -12,10 +12,12 @@
 
 * Login <br>
   ROLE_ADMIN <br>
-  korisničko ime: miroslav    lozinka: miroslav<br>
+  korisničko ime: miroslav<br>
+  lozinka: miroslav<br>
   
   ROLE_KORISNIK<br>
-  korisničko ime: tamara      lozinka: tamara<br>
+  korisničko ime: tamara <br>
+  lozinka: tamara<br>
 
   NEPRIJAVLJENI KORISNIK<br>
   samo prikaz i pretraga nastupa<br>
