@@ -4,15 +4,13 @@
   Okačen je neizmenjen projekat, u potpunosti onako kako je urađen na testu.
   Za izradu projekta polaznici imaju 3 sata.
 
-# Tehnologije
+ * Tehnologije *
   Backend- SpringBoot
   Frontend- React
-_______________________________________________________________________________
-# OBJAŠNJENJE PROJEKTA
 
 - za pokretanje frontend dela aplikacije- npm install
 
-# Login
+* Login *
   ROLE_ADMIN 
   korisnicčko ime: miroslav    lozinka: miroslav
   
@@ -22,11 +20,11 @@ _______________________________________________________________________________
   NEPRIJAVLJENI KORISNIK
   - samo prikaz i pretraga nastupa
 
-# Izvođači:
+ ** Izvođači:
   Admin- prikaz i dodavanje novog
   Korisnik- samo prikaz
 
-# Nastupi:
+ ** Nastupi:
   Korisnik i Admin -Prikaz, dodavanje i pretraga 
   Admin- Brisanje
   Klikom na bilo koji red iz tabele, iskače alert sa prikazom broja nastupa datog izvođača
